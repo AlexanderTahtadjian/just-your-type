@@ -38,10 +38,20 @@ body {
 
 .part-a {
   font-family: 'Josefin Sans', sans-serif;
+  margin-left: 30rem;
+}
+
+.part-b {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-right: 30rem;
 }
 
 .quote-3 {
   color: lightgray;
   background-color: darkgray;
   font-family: 'Montserrat', sans-serif;
+}
+
+.word {
+  font-family: 'Fjalla One', sans-serif;
 }
