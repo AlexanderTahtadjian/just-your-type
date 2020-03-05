@@ -25,23 +25,17 @@ body {
   margin: 0;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
+.quote-1 {
+  color: white;
+  background-color: black;
 }
 
-h1,
-h2 {
-  color: #623b0c;
-  font-family: "Denk One";
+.quote-2 {
+  color: black;
+  background-color: lightgray;
 }
 
-a {
-  color: #623b0c;
-}
-
-.card {
-  background-color: #ede3db;
-  border: 2px solid #623b0c;
-  border-radius: 8px;
+.quote-3 {
+  color: lightgray;
+  background-color: darkgray;
 }
