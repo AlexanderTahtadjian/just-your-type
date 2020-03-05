@@ -28,6 +28,7 @@ body {
 .quote-1 {
   color: white;
   background-color: black;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .quote-2 {
@@ -35,7 +36,12 @@ body {
   background-color: lightgray;
 }
 
+.part-a {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
 .quote-3 {
   color: lightgray;
   background-color: darkgray;
+  font-family: 'Montserrat', sans-serif;
 }
