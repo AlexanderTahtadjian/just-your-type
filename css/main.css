@@ -50,10 +50,10 @@ a:hover {
   color: #2e2d2c;
 }
 
-a .part-1:hover {
+.part-1:hover {
   color: #fff;
 }
 
-a .part-2:hover {
+.part-2:hover {
   color: #a6a3a0;
 }
