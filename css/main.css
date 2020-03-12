@@ -41,6 +41,10 @@ h1 {
   color: #fff;
 }
 
+strong {
+  color: #000;
+}
+
 a {
   text-decoration: none;
   color: #fff;
