@@ -9,6 +9,7 @@ h1 {
   color: #000;
   font-family: Montserrat, sans-serif;
 }
+
 .quote-1 {
   color: #fff;
   background-color: #000;
@@ -52,6 +53,7 @@ a:hover {
 a .part-1:hover {
   color: #fff;
 }
+
 a .part-2:hover {
   color: #a6a3a0;
 }
