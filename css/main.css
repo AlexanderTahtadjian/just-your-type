@@ -26,13 +26,14 @@ html {
 }
 
 .quote-3 {
-  color: lightgray;
+  color: #e8e3e0;
   background-color: darkgray;
   font-family: Montserrat, sans-serif;
 }
 
 .word {
   font-family: "Fjalla One", sans-serif;
+  color: #fff;
 }
 
 a {
@@ -44,10 +45,9 @@ a:hover {
   color: #2e2d2c;
 }
 
-.glass {
+a .part-1:hover {
   color: #fff;
 }
-
-.steel {
+a .part-2:hover {
   color: #a6a3a0;
 }
