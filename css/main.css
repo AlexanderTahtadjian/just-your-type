@@ -39,10 +39,12 @@ body {
 .part-a {
   font-family: 'Josefin Sans', sans-serif;
   float: right;
+  margin-left: 15.25rem;
 }
 
 .part-b {
   font-family: 'Josefin Sans', sans-serif;
+  margin-left: 25.25rem;
 }
 
 .quote-3 {
@@ -56,5 +58,13 @@ body {
 }
 
 a:hover {
-  color: #7a7978y;
+  color: #2e2d2c;
+}
+
+.glass {
+  color: #fff;
+}
+
+.steel {
+  color: #a6a3a0;
 }
