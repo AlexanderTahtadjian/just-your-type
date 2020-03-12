@@ -5,12 +5,8 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  box-sizing: border-box;
 
   -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
 
   font-family: Georgia, serif;
 
@@ -28,7 +24,7 @@ body {
 .quote-1 {
   color: white;
   background-color: black;
-  font-family: 'Fjalla One', sans-serif;
+  font-family: "Fjalla One", sans-serif;
 }
 
 .quote-2 {
@@ -37,24 +33,22 @@ body {
 }
 
 .part-a {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: "Josefin Sans", sans-serif;
   float: right;
-  margin-left: 15.25rem;
 }
 
 .part-b {
-  font-family: 'Josefin Sans', sans-serif;
-  margin-left: 25.25rem;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .quote-3 {
   color: lightgray;
   background-color: darkgray;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Montserrat, sans-serif;
 }
 
 .word {
-  font-family: 'Fjalla One', sans-serif;
+  font-family: "Fjalla One", sans-serif;
 }
 
 a:hover {
