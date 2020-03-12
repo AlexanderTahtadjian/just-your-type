@@ -25,6 +25,10 @@ h1 {
   background-color: lightgray;
 }
 
+.quote-2-a {
+  transform: translate(110%);
+}
+
 .part-a {
   font-family: "Josefin Sans", sans-serif;
   transform: translate(40%);
