@@ -27,7 +27,7 @@ h1 {
 
 .part-a {
   font-family: "Josefin Sans", sans-serif;
-  float: right;
+  transform: translate(40%);
 }
 
 .part-b {
