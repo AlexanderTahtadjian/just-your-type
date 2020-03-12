@@ -61,3 +61,7 @@ a:hover {
 .part-2:hover {
   color: #a6a3a0;
 }
+
+.word:hover {
+  color: #000;
+}
