@@ -5,14 +5,18 @@ html {
   background-color: #f5f2f0;
 }
 
+h1 {
+  color: #000;
+  font-family: Montserrat, sans-serif;
+}
 .quote-1 {
-  color: white;
-  background-color: black;
+  color: #fff;
+  background-color: #000;
   font-family: "Fjalla One", sans-serif;
 }
 
 .quote-2 {
-  color: black;
+  color: #000;
   background-color: lightgray;
 }
 
